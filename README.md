@@ -5,7 +5,7 @@ ShoppingCart
 To run this Shopping Cart:
 
 1) Copy the EarathouCart.jar into your local file
-2) Copy the priceRuleFile.txt into your local c driver direct under temp folder >> c:\temp\
+2) Copy the priceRuleFile.txt into your local c drive directly under the temp folder >> c:\temp\
 3) Run the EarathouCart.jar via windows command prompt:
  a) Open the Run command and type cmd then press enter
  b) After the command window display, change your directory where you place the EarathouCart.jar
