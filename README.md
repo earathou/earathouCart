@@ -13,5 +13,5 @@ To run this Shopping Cart:
  
 Guidelines in using the Shopping Cart
 1) Please strictly follow the needed input requested. Example: If number is requested please enter number
-2) You may follow the scenario indicated in the Shopping Cart Programming Exercise. The scenarios were tested and all expected output are satisfied.
+2) You may follow the scenario indicated in the Technical Assessment (Cart) v2.pdf (Shopping Cart Programming Exercise). The scenarios were tested and all expected output are satisfied.
 3) If you have questions please email me at earathou@gmail.com with subject "Shopping Cart Exercise"
