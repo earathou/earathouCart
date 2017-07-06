@@ -251,8 +251,8 @@ public class ShoppingCart {
 		
 		Item item1 = amaysimCart.getItem(product1, qty1);
 		
-		System.out.println("\nThank you! Your item selected has been added to cart!");
-		System.out.println("\nDo you want to buy again? Here is the remaining list! ");
+		System.out.println("\nThank you! Your item selected has been added to the cart!");
+		System.out.println("\nDo you want to buy again? Here are the remaining list! ");
 		listProduct(product1);
 		
 		System.out.println("\nPlease enter the number of another product you want to purchase [1-4] (except " + product1 + ")] : ");
