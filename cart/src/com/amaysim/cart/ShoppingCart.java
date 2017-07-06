@@ -261,7 +261,7 @@ public class ShoppingCart {
 		System.out.println("\nHow many?: ");
 		int qty2 = userInput.nextInt();
 		
-		System.out.println("\n Thank you! Your item selected has been added to cart!");
+		System.out.println("\nThank you! Your item selected has been added to the cart!");
 
 		Item item2 = amaysimCart.getItem(product2, qty2);
 
